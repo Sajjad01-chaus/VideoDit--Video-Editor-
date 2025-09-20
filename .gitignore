@@ -6,6 +6,6 @@ __pycache__/
 htmlcov/
 .env
 .vscode/
-
+backend/data/
 .DS_Store
 Thumbs.d
