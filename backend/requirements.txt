@@ -1,0 +1,14 @@
+fastapi
+uvicorn 
+sqlalchemy 
+alembic
+psycopg2-binary
+python-multipart
+python-dotenv
+pydantic
+redis
+celery[redis]
+python-ffmpeg
+python-jose
+aiofiles
+pytest 

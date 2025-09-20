@@ -1,0 +1,11 @@
+myvenv/
+myvenv
+__pycache__/
+*.pyc
+.pytest_cache/
+htmlcov/
+.env
+.vscode/
+
+.DS_Store
+Thumbs.d
