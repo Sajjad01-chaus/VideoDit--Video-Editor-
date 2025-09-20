@@ -106,6 +106,8 @@ cd frontend
 streamlit run app.py
 ```
 
+<img src="./Screenshot 2025-09-20 224317.png" alt="drawing" width="200"/>
+
 
 
 
