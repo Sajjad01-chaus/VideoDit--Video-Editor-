@@ -27,7 +27,7 @@ It supports core features like:
 ---
 
 ## ⚙️ Project Structure
-
+```
 backend/
 ├── app/
 │ ├── api/ # FastAPI routes (videos, jobs)
@@ -43,7 +43,7 @@ backend/
 └── docker-compose.yml
 frontend/
 └── app.py # Streamlit demo UI
-
+```
 ---
 
 ## 🔧 Setup & Running
